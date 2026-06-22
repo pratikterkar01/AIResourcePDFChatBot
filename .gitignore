@@ -16,4 +16,5 @@ _book
 *.pdf
 venv/
 .idea/
-
+logs
+VectorDB

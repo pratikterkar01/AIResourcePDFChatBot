@@ -1,111 +1,192 @@
-[ 2026-06-21 22:20:49,110 ] 309 watchfiles.main - INFO - 4 changes detected
-[ 2026-06-21 22:21:04,126 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-21 22:30:12,273 ] 309 watchfiles.main - INFO - 4 changes detected
-[ 2026-06-21 22:30:12,446 ] 20 __mp_main__ - INFO - Shutting down gracefully...
-[ 2026-06-21 22:30:12,447 ] 20 program - INFO - Shutting down gracefully...
-[ 2026-06-21 22:30:14,880 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-21 22:30:15,234 ] 309 watchfiles.main - INFO - 6 changes detected
-[ 2026-06-21 22:30:27,316 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-21 22:30:31,261 ] 30 app - INFO - FastAPI app created successfully
-[ 2026-06-21 22:30:31,373 ] 13 __mp_main__ - INFO - Starting up ChatBot...
-[ 2026-06-21 22:30:31,374 ] 16 __mp_main__ - INFO - All routers registered. App ready.
-[ 2026-06-21 22:30:31,375 ] 13 program - INFO - Starting up ChatBot...
-[ 2026-06-21 22:30:31,375 ] 16 program - INFO - All routers registered. App ready.
-[ 2026-06-21 22:30:31,389 ] 29 Services.IngectionService - INFO - Inside the directoryLoad function in IngetionService
-[ 2026-06-21 22:30:31,418 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-21 22:30:32,954 ] 230 langchain_community.document_loaders.directory - WARNING - Error loading file D:\CXNotes\100 days ML Notes v2.pdf: partition_pdf() is not available because one or more dependencies are not installed. Use: pip install "unstructured[pdf]" (including quotes) to install the required dependencies
-[ 2026-06-21 22:30:32,964 ] 39 Services.IngectionService - INFO - Folder loaded successfully: D:\\CXNotes
-[ 2026-06-21 22:30:37,790 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-21 22:30:50,417 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-21 22:31:17,354 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-21 22:31:34,105 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-21 22:32:20,217 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:13:54,027 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:13:57,132 ] 20 __mp_main__ - INFO - Shutting down gracefully...
-[ 2026-06-22 00:13:57,132 ] 20 program - INFO - Shutting down gracefully...
-[ 2026-06-22 00:14:17,752 ] 30 app - INFO - FastAPI app created successfully
-[ 2026-06-22 00:14:24,519 ] 30 app - INFO - FastAPI app created successfully
-[ 2026-06-22 00:14:24,593 ] 13 __mp_main__ - INFO - Starting up ChatBot...
-[ 2026-06-22 00:14:24,593 ] 16 __mp_main__ - INFO - All routers registered. App ready.
-[ 2026-06-22 00:14:24,593 ] 13 program - INFO - Starting up ChatBot...
-[ 2026-06-22 00:14:24,594 ] 16 program - INFO - All routers registered. App ready.
-[ 2026-06-22 00:14:24,609 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:14:47,758 ] 309 watchfiles.main - INFO - 4 changes detected
-[ 2026-06-22 00:14:47,911 ] 20 __mp_main__ - INFO - Shutting down gracefully...
-[ 2026-06-22 00:14:47,911 ] 20 program - INFO - Shutting down gracefully...
-[ 2026-06-22 00:14:49,561 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:14:49,921 ] 309 watchfiles.main - INFO - 6 changes detected
-[ 2026-06-22 00:14:59,997 ] 30 app - INFO - FastAPI app created successfully
-[ 2026-06-22 00:15:00,073 ] 13 __mp_main__ - INFO - Starting up ChatBot...
-[ 2026-06-22 00:15:00,073 ] 16 __mp_main__ - INFO - All routers registered. App ready.
-[ 2026-06-22 00:15:00,074 ] 13 program - INFO - Starting up ChatBot...
-[ 2026-06-22 00:15:00,074 ] 16 program - INFO - All routers registered. App ready.
-[ 2026-06-22 00:15:00,109 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:15:02,799 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:15:17,865 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:15:32,876 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:15:47,928 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:16:02,966 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:16:09,249 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:16:30,261 ] 309 watchfiles.main - INFO - 4 changes detected
-[ 2026-06-22 00:16:30,388 ] 20 __mp_main__ - INFO - Shutting down gracefully...
-[ 2026-06-22 00:16:30,389 ] 20 program - INFO - Shutting down gracefully...
-[ 2026-06-22 00:16:32,691 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:16:33,053 ] 309 watchfiles.main - INFO - 6 changes detected
-[ 2026-06-22 00:16:45,229 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:16:45,791 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:16:46,838 ] 30 app - INFO - FastAPI app created successfully
-[ 2026-06-22 00:16:46,907 ] 13 __mp_main__ - INFO - Starting up ChatBot...
-[ 2026-06-22 00:16:46,907 ] 16 __mp_main__ - INFO - All routers registered. App ready.
-[ 2026-06-22 00:16:46,907 ] 13 program - INFO - Starting up ChatBot...
-[ 2026-06-22 00:16:46,908 ] 16 program - INFO - All routers registered. App ready.
-[ 2026-06-22 00:16:46,916 ] 29 Services.IngectionService - INFO - Inside the directoryLoad function in IngetionService
-[ 2026-06-22 00:16:46,917 ] 31 Services.IngectionService - INFO - Folder path is : D:\\CXNotes
-[ 2026-06-22 00:16:46,959 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:16:47,543 ] 230 langchain_community.document_loaders.directory - WARNING - Error loading file D:\CXNotes\100 days ML Notes v2.pdf: partition_pdf() is not available because one or more dependencies are not installed. Use: pip install "unstructured[pdf]" (including quotes) to install the required dependencies
-[ 2026-06-22 00:16:47,546 ] 41 Services.IngectionService - WARNING - No documents were loaded from: D:\\CXNotes
-[ 2026-06-22 00:17:05,863 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:17:07,072 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:18:22,980 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:18:26,771 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:20:18,013 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:20:21,118 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:20:23,293 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:20:28,270 ] 29 Services.IngectionService - INFO - Inside the directoryLoad function in IngetionService
-[ 2026-06-22 00:20:28,270 ] 31 Services.IngectionService - INFO - Folder path is : D:\\CXNotes
-[ 2026-06-22 00:20:29,567 ] 230 langchain_community.document_loaders.directory - WARNING - Error loading file D:\CXNotes\100 days ML Notes v2.pdf: partition_pdf() is not available because one or more dependencies are not installed. Use: pip install "unstructured[pdf]" (including quotes) to install the required dependencies
-[ 2026-06-22 00:20:29,575 ] 41 Services.IngectionService - WARNING - No documents were loaded from: D:\\CXNotes
-[ 2026-06-22 00:20:34,809 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:21:16,473 ] 20 __mp_main__ - INFO - Shutting down gracefully...
-[ 2026-06-22 00:21:16,474 ] 20 program - INFO - Shutting down gracefully...
-[ 2026-06-22 00:22:57,905 ] 29 __main__ - INFO - Inside the directoryLoad function in IngetionService
-[ 2026-06-22 00:22:57,905 ] 31 __main__ - INFO - Folder path is : D:\CXNotes
-[ 2026-06-22 00:23:02,561 ] 230 langchain_community.document_loaders.directory - WARNING - Error loading file D:\CXNotes\100 days ML Notes v2.pdf: No module named 'unstructured_inference'
-[ 2026-06-22 00:23:02,566 ] 41 __main__ - WARNING - No documents were loaded from: D:\CXNotes
-[ 2026-06-22 00:30:41,543 ] 29 __main__ - INFO - Inside the directoryLoad function in IngetionService
-[ 2026-06-22 00:30:41,543 ] 31 __main__ - INFO - Folder path is : D:\CXNotes
-[ 2026-06-22 00:31:16,897 ] 37 __main__ - INFO - Loaded 2434 documents from: D:\CXNotes
-[ 2026-06-22 00:31:46,224 ] 30 app - INFO - FastAPI app created successfully
-[ 2026-06-22 00:31:53,577 ] 30 app - INFO - FastAPI app created successfully
-[ 2026-06-22 00:31:53,678 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:31:53,679 ] 13 __mp_main__ - INFO - Starting up ChatBot...
-[ 2026-06-22 00:31:53,679 ] 16 __mp_main__ - INFO - All routers registered. App ready.
-[ 2026-06-22 00:31:53,680 ] 13 program - INFO - Starting up ChatBot...
-[ 2026-06-22 00:31:53,680 ] 16 program - INFO - All routers registered. App ready.
-[ 2026-06-22 00:32:09,425 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:32:13,788 ] 29 Services.IngectionService - INFO - Inside the directoryLoad function in IngetionService
-[ 2026-06-22 00:32:13,789 ] 31 Services.IngectionService - INFO - Folder path is : D:\\CXNotes
-[ 2026-06-22 00:32:24,181 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:32:39,236 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:32:54,268 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:33:09,313 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:33:24,335 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:33:39,412 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:33:51,480 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:33:53,996 ] 37 Services.IngectionService - INFO - Loaded 2434 documents from: D:\\CXNotes
-[ 2026-06-22 00:34:09,028 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:34:23,746 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:34:38,764 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:34:45,580 ] 309 watchfiles.main - INFO - 1 change detected
-[ 2026-06-22 00:34:47,356 ] 20 __mp_main__ - INFO - Shutting down gracefully...
-[ 2026-06-22 00:34:47,356 ] 20 program - INFO - Shutting down gracefully...
+[ 2026-06-22 22:17:00,226 ] 309 watchfiles.main - INFO - 4 changes detected
+[ 2026-06-22 22:17:00,581 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-22 22:19:31,795 ] 93 Services.IngectionService - INFO - Inside the vectorizationPipline function in IngetionService
+[ 2026-06-22 22:19:31,796 ] 35 Services.IngectionService - INFO - Inside the directoryLoad function in IngetionService
+[ 2026-06-22 22:19:31,796 ] 37 Services.IngectionService - INFO - Folder path is : D:\\CXNotes
+[ 2026-06-22 22:20:24,839 ] 43 Services.IngectionService - INFO - Loaded 2434 documents from: D:\\CXNotes
+[ 2026-06-22 22:20:24,840 ] 84 Services.IngectionService - INFO - Inside the pdfDocumentToTextConvertor function in IngetionService
+[ 2026-06-22 22:20:24,842 ] 87 Services.IngectionService - INFO - Document extracted successfully:  with length: 2729005
+[ 2026-06-22 22:20:24,842 ] 52 Services.IngectionService - INFO - Inside the textToChunkConverter function in IngetionService
+[ 2026-06-22 22:20:24,910 ] 58 Services.IngectionService - INFO - Chunk created successfully:
+[ 2026-06-22 22:20:24,910 ] 65 Services.IngectionService - INFO - Inside the embedingConverter function in IngetionService
+[ 2026-06-22 22:20:24,911 ] 68 Services.IngectionService - INFO - The len chunk list for the embeding is: 3300 
+[ 2026-06-22 22:20:24,913 ] 183 sentence_transformers.base.model - INFO - No device provided, using cuda:0
+[ 2026-06-22 22:20:25,148 ] 992 sentence_transformers.base.model - INFO - Loading SentenceTransformer model from sentence-transformers/all-MiniLM-L6-v2.
+[ 2026-06-22 22:20:25,154 ] 473 huggingface_hub.utils._http - WARNING - '[Errno 11001] getaddrinfo failed' thrown while requesting HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json
+[ 2026-06-22 22:20:25,155 ] 486 huggingface_hub.utils._http - WARNING - Retrying in 1s [Retry 1/5].
+[ 2026-06-22 22:20:26,156 ] 80 Services.IngectionService - ERROR - Error occured while converting file to embeddings
+[ 2026-06-22 22:20:26,156 ] 81 Services.IngectionService - ERROR - Cannot send a request, as the client has been closed.
+[ 2026-06-22 22:20:26,156 ] 105 Services.IngectionService - ERROR - Error occured while converting file to vector
+[ 2026-06-22 22:20:26,157 ] 106 Services.IngectionService - ERROR - Cannot send a request, as the client has been closed.
+[ 2026-06-22 22:21:22,110 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-22 22:21:44,023 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-22 22:21:51,761 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-22 22:22:00,075 ] 93 Services.IngectionService - INFO - Inside the vectorizationPipline function in IngetionService
+[ 2026-06-22 22:22:00,076 ] 35 Services.IngectionService - INFO - Inside the directoryLoad function in IngetionService
+[ 2026-06-22 22:22:00,076 ] 37 Services.IngectionService - INFO - Folder path is : D:\\CXNotes
+[ 2026-06-22 22:22:12,289 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-22 22:22:43,084 ] 43 Services.IngectionService - INFO - Loaded 2434 documents from: D:\\CXNotes
+[ 2026-06-22 22:22:43,084 ] 84 Services.IngectionService - INFO - Inside the pdfDocumentToTextConvertor function in IngetionService
+[ 2026-06-22 22:22:43,087 ] 87 Services.IngectionService - INFO - Document extracted successfully:  with length: 2729005
+[ 2026-06-22 22:22:43,087 ] 52 Services.IngectionService - INFO - Inside the textToChunkConverter function in IngetionService
+[ 2026-06-22 22:22:43,148 ] 58 Services.IngectionService - INFO - Chunk created successfully:
+[ 2026-06-22 22:22:43,148 ] 65 Services.IngectionService - INFO - Inside the embedingConverter function in IngetionService
+[ 2026-06-22 22:22:43,148 ] 68 Services.IngectionService - INFO - The len chunk list for the embeding is: 3300 
+[ 2026-06-22 22:22:43,150 ] 183 sentence_transformers.base.model - INFO - No device provided, using cuda:0
+[ 2026-06-22 22:22:43,356 ] 992 sentence_transformers.base.model - INFO - Loading SentenceTransformer model from sentence-transformers/all-MiniLM-L6-v2.
+[ 2026-06-22 22:22:43,361 ] 473 huggingface_hub.utils._http - WARNING - '[Errno 11001] getaddrinfo failed' thrown while requesting HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json
+[ 2026-06-22 22:22:43,361 ] 486 huggingface_hub.utils._http - WARNING - Retrying in 1s [Retry 1/5].
+[ 2026-06-22 22:22:44,363 ] 80 Services.IngectionService - ERROR - Error occured while converting file to embeddings
+[ 2026-06-22 22:22:44,363 ] 81 Services.IngectionService - ERROR - Cannot send a request, as the client has been closed.
+[ 2026-06-22 22:22:44,364 ] 105 Services.IngectionService - ERROR - Error occured while converting file to vector
+[ 2026-06-22 22:22:44,364 ] 106 Services.IngectionService - ERROR - Cannot send a request, as the client has been closed.
+[ 2026-06-22 22:23:15,012 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-22 22:23:28,823 ] 309 watchfiles.main - INFO - 4 changes detected
+[ 2026-06-22 22:23:29,044 ] 20 __mp_main__ - INFO - Shutting down gracefully...
+[ 2026-06-22 22:23:29,045 ] 20 program - INFO - Shutting down gracefully...
+[ 2026-06-22 22:23:31,198 ] 309 watchfiles.main - INFO - 2 changes detected
+[ 2026-06-22 22:23:31,549 ] 309 watchfiles.main - INFO - 5 changes detected
+[ 2026-06-22 22:23:43,073 ] 33 app - INFO - FastAPI app created successfully
+[ 2026-06-22 22:23:43,102 ] 13 __mp_main__ - INFO - Starting up ChatBot...
+[ 2026-06-22 22:23:43,102 ] 16 __mp_main__ - INFO - All routers registered. App ready.
+[ 2026-06-22 22:23:43,102 ] 13 program - INFO - Starting up ChatBot...
+[ 2026-06-22 22:23:43,103 ] 16 program - INFO - All routers registered. App ready.
+[ 2026-06-22 22:23:43,176 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-22 22:23:49,010 ] 20 __mp_main__ - INFO - Shutting down gracefully...
+[ 2026-06-22 22:23:49,010 ] 20 program - INFO - Shutting down gracefully...
+[ 2026-06-22 22:25:10,000 ] 93 __main__ - INFO - Inside the vectorizationPipline function in IngetionService
+[ 2026-06-22 22:25:10,000 ] 35 __main__ - INFO - Inside the directoryLoad function in IngetionService
+[ 2026-06-22 22:25:10,000 ] 37 __main__ - INFO - Folder path is : D:\CXNotes
+[ 2026-06-22 22:25:44,576 ] 43 __main__ - INFO - Loaded 2434 documents from: D:\CXNotes
+[ 2026-06-22 22:25:44,576 ] 84 __main__ - INFO - Inside the pdfDocumentToTextConvertor function in IngetionService
+[ 2026-06-22 22:25:44,578 ] 87 __main__ - INFO - Document extracted successfully:  with length: 2729005
+[ 2026-06-22 22:25:44,578 ] 52 __main__ - INFO - Inside the textToChunkConverter function in IngetionService
+[ 2026-06-22 22:25:44,640 ] 58 __main__ - INFO - Chunk created successfully:
+[ 2026-06-22 22:25:44,640 ] 65 __main__ - INFO - Inside the embedingConverter function in IngetionService
+[ 2026-06-22 22:25:44,640 ] 68 __main__ - INFO - The len chunk list for the embeding is: 3300 
+[ 2026-06-22 22:25:44,642 ] 183 sentence_transformers.base.model - INFO - No device provided, using cuda:0
+[ 2026-06-22 22:25:44,860 ] 992 sentence_transformers.base.model - INFO - Loading SentenceTransformer model from sentence-transformers/all-MiniLM-L6-v2.
+[ 2026-06-22 22:25:44,866 ] 473 huggingface_hub.utils._http - WARNING - '[Errno 11001] getaddrinfo failed' thrown while requesting HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json
+[ 2026-06-22 22:25:44,866 ] 486 huggingface_hub.utils._http - WARNING - Retrying in 1s [Retry 1/5].
+[ 2026-06-22 22:25:45,867 ] 80 __main__ - ERROR - Error occured while converting file to embeddings
+[ 2026-06-22 22:25:45,867 ] 81 __main__ - ERROR - Cannot send a request, as the client has been closed.
+[ 2026-06-22 22:25:45,867 ] 105 __main__ - ERROR - Error occured while converting file to vector
+[ 2026-06-22 22:25:45,867 ] 106 __main__ - ERROR - Cannot send a request, as the client has been closed.
+[ 2026-06-22 22:26:27,615 ] 93 __main__ - INFO - Inside the vectorizationPipline function in IngetionService
+[ 2026-06-22 22:26:27,615 ] 35 __main__ - INFO - Inside the directoryLoad function in IngetionService
+[ 2026-06-22 22:26:27,615 ] 37 __main__ - INFO - Folder path is : D:\CXNotes
+[ 2026-06-22 22:27:03,875 ] 43 __main__ - INFO - Loaded 2434 documents from: D:\CXNotes
+[ 2026-06-22 22:27:03,875 ] 84 __main__ - INFO - Inside the pdfDocumentToTextConvertor function in IngetionService
+[ 2026-06-22 22:27:03,877 ] 87 __main__ - INFO - Document extracted successfully:  with length: 2729005
+[ 2026-06-22 22:27:03,877 ] 52 __main__ - INFO - Inside the textToChunkConverter function in IngetionService
+[ 2026-06-22 22:27:03,944 ] 58 __main__ - INFO - Chunk created successfully:
+[ 2026-06-22 22:27:03,944 ] 65 __main__ - INFO - Inside the embedingConverter function in IngetionService
+[ 2026-06-22 22:27:03,944 ] 68 __main__ - INFO - The len chunk list for the embeding is: 3300 
+[ 2026-06-22 22:27:03,946 ] 183 sentence_transformers.base.model - INFO - No device provided, using cuda:0
+[ 2026-06-22 22:27:06,139 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+[ 2026-06-22 22:27:06,228 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/modules.json "HTTP/1.1 200 OK"
+[ 2026-06-22 22:27:06,504 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+[ 2026-06-22 22:27:06,578 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config_sentence_transformers.json "HTTP/1.1 200 OK"
+[ 2026-06-22 22:27:06,580 ] 992 sentence_transformers.base.model - INFO - Loading SentenceTransformer model from sentence-transformers/all-MiniLM-L6-v2.
+[ 2026-06-22 22:27:06,863 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+[ 2026-06-22 22:27:06,864 ] 904 huggingface_hub.utils._http - WARNING - Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[ 2026-06-22 22:27:06,977 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config_sentence_transformers.json "HTTP/1.1 200 OK"
+[ 2026-06-22 22:27:07,223 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+[ 2026-06-22 22:27:07,340 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/README.md "HTTP/1.1 200 OK"
+[ 2026-06-22 22:27:07,620 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+[ 2026-06-22 22:27:07,857 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/modules.json "HTTP/1.1 200 OK"
+[ 2026-06-22 22:27:08,148 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+[ 2026-06-22 22:27:08,227 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/sentence_bert_config.json "HTTP/1.1 200 OK"
+[ 2026-06-22 22:27:08,537 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+[ 2026-06-22 22:27:08,840 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+[ 2026-06-22 22:27:08,977 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config.json "HTTP/1.1 200 OK"
+[ 2026-06-22 22:27:09,454 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+[ 2026-06-22 22:27:09,863 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+[ 2026-06-22 22:27:10,273 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+[ 2026-06-22 22:27:10,683 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+[ 2026-06-22 22:27:10,992 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+[ 2026-06-22 22:27:11,059 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/tokenizer_config.json "HTTP/1.1 200 OK"
+[ 2026-06-22 22:27:11,341 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+[ 2026-06-22 22:27:11,421 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config.json "HTTP/1.1 200 OK"
+[ 2026-06-22 22:27:11,809 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+[ 2026-06-22 22:27:11,902 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config.json "HTTP/1.1 200 OK"
+[ 2026-06-22 22:27:12,226 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+[ 2026-06-22 22:27:12,302 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/tokenizer_config.json "HTTP/1.1 200 OK"
+[ 2026-06-22 22:27:12,617 ] 1025 httpx - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+[ 2026-06-22 22:27:12,900 ] 1025 httpx - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+[ 2026-06-22 22:27:13,243 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+[ 2026-06-22 22:27:13,298 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+[ 2026-06-22 22:27:13,636 ] 1025 httpx - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+[ 2026-06-22 22:27:25,235 ] 75 __main__ - INFO - Document embedding created and vector Store saved successfully in path: D:\Project\RagChatBotOnCampusXNotes\VectorDB:
+[ 2026-06-22 22:28:02,932 ] 93 Services.IngectionService - INFO - Inside the vectorizationPipline function in IngetionService
+[ 2026-06-22 22:28:02,932 ] 35 Services.IngectionService - INFO - Inside the directoryLoad function in IngetionService
+[ 2026-06-22 22:28:02,933 ] 37 Services.IngectionService - INFO - Folder path is : D:\CXNotes
+[ 2026-06-22 22:28:33,761 ] 33 app - INFO - FastAPI app created successfully
+[ 2026-06-22 22:28:45,779 ] 33 app - INFO - FastAPI app created successfully
+[ 2026-06-22 22:28:45,808 ] 13 __mp_main__ - INFO - Starting up ChatBot...
+[ 2026-06-22 22:28:45,808 ] 16 __mp_main__ - INFO - All routers registered. App ready.
+[ 2026-06-22 22:28:45,808 ] 13 program - INFO - Starting up ChatBot...
+[ 2026-06-22 22:28:45,809 ] 16 program - INFO - All routers registered. App ready.
+[ 2026-06-22 22:28:45,845 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-22 22:29:58,519 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-22 22:30:02,263 ] 93 Services.IngectionService - INFO - Inside the vectorizationPipline function in IngetionService
+[ 2026-06-22 22:30:02,264 ] 35 Services.IngectionService - INFO - Inside the directoryLoad function in IngetionService
+[ 2026-06-22 22:30:02,264 ] 37 Services.IngectionService - INFO - Folder path is : D:\\CXNotes
+[ 2026-06-22 22:30:04,163 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-22 22:30:37,483 ] 43 Services.IngectionService - INFO - Loaded 2434 documents from: D:\\CXNotes
+[ 2026-06-22 22:30:37,483 ] 84 Services.IngectionService - INFO - Inside the pdfDocumentToTextConvertor function in IngetionService
+[ 2026-06-22 22:30:37,486 ] 87 Services.IngectionService - INFO - Document extracted successfully:  with length: 2729005
+[ 2026-06-22 22:30:37,486 ] 52 Services.IngectionService - INFO - Inside the textToChunkConverter function in IngetionService
+[ 2026-06-22 22:30:37,550 ] 58 Services.IngectionService - INFO - Chunk created successfully:
+[ 2026-06-22 22:30:37,550 ] 65 Services.IngectionService - INFO - Inside the embedingConverter function in IngetionService
+[ 2026-06-22 22:30:37,550 ] 68 Services.IngectionService - INFO - The len chunk list for the embeding is: 3300 
+[ 2026-06-22 22:30:37,552 ] 183 sentence_transformers.base.model - INFO - No device provided, using cuda:0
+[ 2026-06-22 22:30:38,346 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+[ 2026-06-22 22:30:38,347 ] 904 huggingface_hub.utils._http - WARNING - Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[ 2026-06-22 22:30:38,413 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/modules.json "HTTP/1.1 200 OK"
+[ 2026-06-22 22:30:38,743 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+[ 2026-06-22 22:30:39,062 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config_sentence_transformers.json "HTTP/1.1 200 OK"
+[ 2026-06-22 22:30:39,065 ] 992 sentence_transformers.base.model - INFO - Loading SentenceTransformer model from sentence-transformers/all-MiniLM-L6-v2.
+[ 2026-06-22 22:30:39,374 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+[ 2026-06-22 22:30:39,492 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config_sentence_transformers.json "HTTP/1.1 200 OK"
+[ 2026-06-22 22:30:39,821 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+[ 2026-06-22 22:30:39,984 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/README.md "HTTP/1.1 200 OK"
+[ 2026-06-22 22:30:40,394 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+[ 2026-06-22 22:30:40,458 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/modules.json "HTTP/1.1 200 OK"
+[ 2026-06-22 22:30:40,804 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+[ 2026-06-22 22:30:40,899 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/sentence_bert_config.json "HTTP/1.1 200 OK"
+[ 2026-06-22 22:30:41,216 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+[ 2026-06-22 22:30:41,576 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+[ 2026-06-22 22:30:41,663 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config.json "HTTP/1.1 200 OK"
+[ 2026-06-22 22:30:42,135 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+[ 2026-06-22 22:30:42,545 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+[ 2026-06-22 22:30:42,954 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+[ 2026-06-22 22:30:43,364 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+[ 2026-06-22 22:30:43,774 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+[ 2026-06-22 22:30:43,861 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/tokenizer_config.json "HTTP/1.1 200 OK"
+[ 2026-06-22 22:30:44,177 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+[ 2026-06-22 22:30:44,259 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config.json "HTTP/1.1 200 OK"
+[ 2026-06-22 22:30:44,533 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+[ 2026-06-22 22:30:44,618 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config.json "HTTP/1.1 200 OK"
+[ 2026-06-22 22:30:44,901 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+[ 2026-06-22 22:30:44,979 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/tokenizer_config.json "HTTP/1.1 200 OK"
+[ 2026-06-22 22:30:45,296 ] 1025 httpx - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+[ 2026-06-22 22:30:45,616 ] 1025 httpx - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+[ 2026-06-22 22:30:46,026 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+[ 2026-06-22 22:30:46,230 ] 1025 httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+[ 2026-06-22 22:30:46,641 ] 1025 httpx - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+[ 2026-06-22 22:30:47,072 ] 309 watchfiles.main - INFO - 4 changes detected
+[ 2026-06-22 22:30:48,033 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-22 22:30:56,525 ] 309 watchfiles.main - INFO - 4 changes detected
+[ 2026-06-22 22:30:56,879 ] 309 watchfiles.main - INFO - 2 changes detected
+[ 2026-06-22 22:30:57,483 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-22 22:30:58,389 ] 309 watchfiles.main - INFO - 9 changes detected
+[ 2026-06-22 22:30:58,437 ] 75 Services.IngectionService - INFO - Document embedding created and vector Store saved successfully in path: D:\Project\RagChatBotOnCampusXNotes\VectorDB:
+[ 2026-06-22 22:30:58,752 ] 309 watchfiles.main - INFO - 6 changes detected
+[ 2026-06-22 22:30:59,360 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-22 22:31:03,487 ] 309 watchfiles.main - INFO - 2 changes detected
+[ 2026-06-22 22:31:04,098 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-22 22:31:04,448 ] 309 watchfiles.main - INFO - 2 changes detected
+[ 2026-06-22 22:31:11,122 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-22 22:31:43,791 ] 20 __mp_main__ - INFO - Shutting down gracefully...
+[ 2026-06-22 22:31:43,792 ] 20 program - INFO - Shutting down gracefully...

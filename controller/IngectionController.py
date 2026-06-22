@@ -3,10 +3,10 @@ from Services.IngectionService import IngetionService
 
 router = APIRouter()
 
-@router.get("/IngectionSerivice/{directoryPath}")
+@router.get("/IngectionPipelineInitiate/{directoryPath}")
 def ingectionDocument(directoryPath: str):
     ingection = IngetionService()
-    loadedDoc = ingection.directoryLoad(directoryPath)
+    loadedDoc = ingection.vectorizationPipline(directoryPath)
     return loadedDoc
 
 @router.get("/hello")

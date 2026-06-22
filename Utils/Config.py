@@ -6,6 +6,10 @@ class Settings(BaseSettings):
     HOST: str = "0.0.0.0"
     PORT: int = 8080
     DEBUG: bool = True
+    ChunkSize: int = 1024
+    ChunkOverlap: int = 200
+    HuggingfaceEmbedingModelName: str = 'sentence-transformers/all-MiniLM-L6-v2'
+    VetorDBPath:str = "D:\Project\RagChatBotOnCampusXNotes\VectorDB"
 
     class Config:
         env_file = ".env"
