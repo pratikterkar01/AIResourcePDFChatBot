@@ -6,7 +6,7 @@ router = APIRouter()
 @router.get("/IngectionPipelineInitiate/{directoryPath}")
 def ingectionDocument(directoryPath: str):
     ingection = IngetionService()
-    loadedDoc = ingection.vectorizationPipline(directoryPath)
+    loadedDoc = ingection.vectorization_pipline(directoryPath)
     return loadedDoc
 
 @router.get("/hello")

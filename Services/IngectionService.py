@@ -13,7 +13,7 @@ class IngetionService:
     def __init__(self):
         pass
 
-    def loadDocument(self,filePath:str,doc_type:str) -> list[Document]:
+    def load_document(self,filePath:str) -> list[Document]:
         logger.info(f"Inside the loadDocument function in IngetionService")
         try:
             if filePath.endswith(".pdf"):
@@ -30,8 +30,8 @@ class IngetionService:
             logger.debug(f"Error occured while loading the file: {filePath}")
             logger.debug(e)
             raise RuntimeError(message) from e
-    ## This works for PDFs, DOCX, PPTX, HTML, TXT, MD, images, etc., since Unstructured detects file type internally. Needs
-    def directoryLoad(self,folderPath:str) -> list[Document]:
+    ## This works for PDFs, since Unstructured detects file type internally. Needs
+    def directory_load(self,folderPath:str) -> list[Document]:
         logger.info(f"Inside the directoryLoad function in IngetionService")
         try:
             logger.info(f"Folder path is : {folderPath}")
@@ -48,7 +48,7 @@ class IngetionService:
             logger.debug(e)
             raise RuntimeError(e)
     ## convert into chunks
-    def textToChunkConverter(self,fileContentText:str):
+    def text_to_chunk_converter(self,fileContentText:str):
         logger.info(f"Inside the textToChunkConverter function in IngetionService")
         try:
             chunkSize = global_variables.ChunkSize
@@ -80,7 +80,7 @@ class IngetionService:
             logger.error(f"Error occured while converting file to embeddings")
             logger.error(e)
             raise RuntimeError(e)
-    def pdfDocumentToTextConvertor(self,documentList:list[Document]):
+    def pdf_document_to_text_convertor(self,documentList:list[Document]):
         logger.info(f"Inside the pdfDocumentToTextConvertor function in IngetionService")
         try:
             textExtraction = " ".join((doc.page_content) for doc in documentList)
@@ -89,7 +89,7 @@ class IngetionService:
         except Exception as e:
             logger.error(f"Error occured while converting file to text")
             logger.error(e)
-    def vectorizationPipline(self,folderPath:str):
+    def vectorization_pipline(self,folderPath:str):
         logger.info(f"Inside the vectorizationPipline function in IngetionService")
         try:
             ## loade the files from the directory (In this case we only have pdf's)
